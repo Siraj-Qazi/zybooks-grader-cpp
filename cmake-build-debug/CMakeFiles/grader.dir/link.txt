@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/grader.dir/main.c.o CMakeFiles/grader.dir/functions.c.o  -o grader 
